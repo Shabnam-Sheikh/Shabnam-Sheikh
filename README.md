@@ -18,10 +18,10 @@
 ## 📂 Featured Projects
 
 - [✈️ Airline Price Analysis](https://github.com/Shabnam-Sheikh/Airline_analysis_Dashboard)  
-  *Converted Raw data into more readalbe and understandable visualisation.*
+  *Converted Raw data into more readalbe and understandable visualisation Usnig PowerBI.*
 
 - [📊 Sales Analysis Dashboard](https://github.com/Shabnam-Sheikh/Sales_Dashboard)  
-  *Built an interactive dashboard in Power BI for real-time sales monitoring, using external APIs.*
+  *Built an interactive dashboard in Power BI for real-time sales monitoring.*
 
 - [🧑‍⚕️ Heart Disease Prediction](https://github.com/Shabnam-Sheikh/Heart-Disease-EDA)  
   *Analyzed UCI dataset with Python (Pandas, Matplotlib, Seaborn) to identify key health risk factors.*
