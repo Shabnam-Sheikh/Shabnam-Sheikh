@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me  
 - I am a **Data Analyst** with a strong foundation in **Python, SQL, Statistics, Power BI, and Excel**.
 - specializing in transforming complex datasets into clear, actionable insights.  
-- My expertise lies in **data cleaning, visualization, and business intelligence**, 
+- My expertise lies in **data cleaning, visualization, and business intelligence**,
   where I leverage analytical techniques to uncover hidden trends, optimize decision-making, and solve real-world business challenges. 
 
 ---
