@@ -18,7 +18,7 @@
 ## 📂 Featured Projects
 
 - [✈️ Airline Price Analysis](https://github.com/Shabnam-Sheikh/Airline_analysis_Dashboard)  
-  *Performed EDA on Indian domestic airfare datasets using Python, MySQL & Power BI. Visualized pricing patterns and customer behavior.*
+  *Converted Raw data into more readalbe and understandable visualisation.*
 
 - [📊 Sales Analysis Dashboard](https://github.com/Shabnam-Sheikh/Sales_Dashboard)  
   *Built an interactive dashboard in Power BI for real-time sales monitoring, using external APIs.*
