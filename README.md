@@ -15,18 +15,7 @@
 - **Other Skills:** Data Wrangling, EDA, Reporting, Storytelling with Data  
 
 ---
-## 📂 Featured Projects
 
-- [✈️ Airline Price Analysis](https://github.com/Shabnam-Sheikh/Airline_analysis_Dashboard)  
-  *Converted Raw data into more readalbe and understandable visualisation Usnig PowerBI.*
-
-- [📊 Sales Analysis Dashboard](https://github.com/Shabnam-Sheikh/Sales_Dashboard)  
-  *Built an interactive dashboard in Power BI for real-time sales monitoring.*
-
-- [🧑‍⚕️ Heart Disease Prediction](https://github.com/Shabnam-Sheikh/Heart-Disease-EDA)  
-  *Analyzed UCI dataset with Python (Pandas, Matplotlib, Seaborn) to identify key health risk factors.*
-
----
 
 ## 🌐 Connect with Me to know more
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shabnam-ikram-8049ab325/)   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Shabnam-Sheikh)  
